@@ -1,0 +1,12 @@
+Create dir : src 2022/07/06 22:31:26
+Create dir : res 2022/07/06 22:31:26
+Create dir : savegames 2022/07/06 22:31:26
+Create dir : temp 2022/07/06 22:31:26
+Create dir : main 2022/07/06 22:31:26
+Create dir : test 2022/07/06 22:31:26
+Create file : Main.java 2022/07/06 22:31:26
+Create file : Utils.java 2022/07/06 22:31:26
+Create dir : drawables 2022/07/06 22:31:26
+Create dir : vectors 2022/07/06 22:31:26
+Create dir : icons 2022/07/06 22:31:26
+Create file : temp.txt 2022/07/06 22:31:26
